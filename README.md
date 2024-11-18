@@ -22,7 +22,7 @@ Here are some screenshots of the app in action:
 
 <div align="center">
 
-### Onboarding Screens and Login
+### Onboarding Screens
 
 <img src="assets/0.jpg" height="400">
 <img src="assets/00.jpg" height="400">
