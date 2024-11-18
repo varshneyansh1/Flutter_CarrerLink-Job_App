@@ -15,3 +15,36 @@ CareerLink is a powerful Flutter application designed to connect employers and j
 - **🌐 Backend**: Node.js, Express.js
 - **🗄️ Database**: MongoDB
 - **⚡ Real-time Chat**: Socket.io
+
+## 📸 Screenshots
+
+Here are some screenshots of the app in action:
+
+<div align="center">
+
+### Onboarding Screens and Login
+
+<img src="assets/0.jpg" height="400">
+<img src="assets/00.jpg" height="400">
+
+### Login and Register Screens
+
+<img src="assets/1.jpg" height="400">
+<img src="assets/2.jpg" height="400">
+
+### Home Screen and Search Result
+
+<img src="assets/3.jpg" height="400">
+<img src="assets/4.jpg" height="400">
+
+### Chat Screen and Device Management
+
+<img src="assets/5.jpg" height="400">
+<img src="assets/6.jpg" height="400">
+
+### Post Job and Sidebar
+
+<img src="assets/7.jpg" height="400">
+<img src="assets/8.jpg" height="400">
+
+</div>
